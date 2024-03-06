@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Conversor-de-Moeda-Web/assets/98216100/c4872fdb-3186-429d-ba7d-cc6626311624)
+
 ## Conversor de Moeda Web
 * Projeto de um simples conversor de moeda desenvolvido em HTML, CSS, JavaScript e utilizando a API do ExchangeRate-API.
 
