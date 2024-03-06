@@ -17,7 +17,7 @@
 
 ## 🧑🏽‍💻 Autor
 
-* **Nome do dev** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+* **Angelo Silvano** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 * Esse projeto está sob a licença *Apache-2.0 license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Conversor-de-Moeda_Web?tab=Apache-2.0-1-ov-file).
