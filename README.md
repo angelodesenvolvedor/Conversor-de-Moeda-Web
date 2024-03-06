@@ -6,7 +6,7 @@
 
 ## 📦 Tecnologias usadas
 Frontend:
-HTML: A estrutura básica da página e os elementos de entrada de dados foram implementados em HTML.
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): A estrutura básica da página e os elementos de entrada de dados foram implementados em HTML.
 
 CSS: O estilo visual da aplicação foi desenvolvido usando CSS. Foi aplicada uma imagem de fundo e estilização para melhorar a experiência do usuário.
 
