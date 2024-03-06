@@ -13,7 +13,7 @@
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E):  A lógica de conversão de moeda foi implementada em JavaScript. A função convertCurrency() extrai os valores de entrada do usuário, faz uma chamada assíncrona à API do ExchangeRate-API, calcula a conversão e exibe o resultado na página.
 
 ## API:
-* ExchangeRate-API: Utilizada para obter as taxas de câmbio em tempo real entre diferentes moedas. A chave de API foi incluída no código para autenticação.
+* [ExchangeRate-API](https://www.exchangerate-api.com/): Utilizada para obter as taxas de câmbio em tempo real entre diferentes moedas. A chave de API foi incluída no código para autenticação.
 
 ## 👷 Autores
 
