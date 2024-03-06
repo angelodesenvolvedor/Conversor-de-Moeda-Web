@@ -4,7 +4,7 @@
 ## 🔥 Introdução
 * Bem-vindo ao Conversor de Moeda Web! Este projeto tem como objetivo fornecer uma maneira fácil e rápida de converter valores entre diferentes moedas, como Real (BRL), Dólar (USD) e Euro (EUR), utilizando a API de taxas de câmbio do ExchangeRate-API.
 
-## 📦 Tecnologias usadas
+## 💻 Tecnologias usadas
 ## Frontend:
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): A estrutura básica da página e os elementos de entrada de dados foram implementados em HTML.
 
@@ -15,7 +15,7 @@
 ## API:
 * [ExchangeRate-API](https://www.exchangerate-api.com/): Utilizada para obter as taxas de câmbio em tempo real entre diferentes moedas. A chave de API foi incluída no código para autenticação.
 
-## 👷 Autores
+## 🧑🏽‍💻 Autor
 
 * **Nome do dev** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
