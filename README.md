@@ -14,4 +14,10 @@
 
 ## API:
 * ExchangeRate-API: Utilizada para obter as taxas de câmbio em tempo real entre diferentes moedas. A chave de API foi incluída no código para autenticação.
-* ![ExchangeRate](https://img.shields.io/badge/ExchangeRate-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
+
+## 👷 Autores
+
+* **Nome do dev** - *Front-End Developer* - [nome_do_dev] ()
+
+## 📄 Licença
+Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md].
