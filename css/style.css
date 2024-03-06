@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('./conversor.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.converter-container {
+    background-color: rgba(255, 255, 255, 0.8); /* Adiciona uma leve opacidade ao contêiner para melhor legibilidade */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    width: 100%;
+}
+
+input,
+select,
+button {
+    margin-bottom: 16px;
+    padding: 8px;
+    width: 100%;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#amount {
+    width: 95%; /* Ou qualquer outra largura desejada */
+}
+
